@@ -1,4 +1,8 @@
 # OpenAI Story and Image Generator
+- Laravel 12
+- Inertia With ReactJS
+- OpenAI API
+- OpenAI DALL E
 
 ## Requirements
 
